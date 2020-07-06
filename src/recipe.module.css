@@ -1,0 +1,65 @@
+.recipe{
+    border-radius: 10px;
+    box-shadow: 6px 9px 5px #888888;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    max-width: 450px;
+    width: 400px;
+    background: #fff;
+    align-items: center;
+    min-width: 36%;
+}
+.recipe .img{
+    border-radius: 40%;
+    width: 100px;
+    height: 100px;
+}
+ol{
+    max-height: 200px;
+    overflow-y: hidden;
+    height: 200px;
+}
+.product_image{
+    border: 3px solid green;
+    border-radius: 50%;
+    box-shadow: 1px 0px 10px 1px #888888;
+    margin-bottom: 26px;
+}
+.tit{
+    background: green;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    color: white;
+    border-radius: 10px;
+    font-size: 12px;
+}
+@media screen and (max-width: 600px){
+    .recipe{
+        border-radius: 10px;
+        box-shadow: 6px 9px 5px #888888;
+        margin: 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        max-width: 450px;
+        width: 80%;
+        background: #fff;
+        align-items: center;
+        min-width: 36%;
+        margin: auto;
+        margin-top: 30px;
+    }
+    .product_image{
+        border: 3px solid green;
+        border-radius: 50%;
+        box-shadow: 1px 0px 10px 1px #888888;
+        width: 80%;
+        margin: auto;
+        display: flex;
+        margin-bottom: 26px;        
+    }
+}
