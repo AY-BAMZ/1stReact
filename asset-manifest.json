@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/AY-BAMZ/1stReact.git/static/css/main.4c098369.chunk.css",
+    "main.js": "/AY-BAMZ/1stReact.git/static/js/main.fa24ba1c.chunk.js",
+    "main.js.map": "/AY-BAMZ/1stReact.git/static/js/main.fa24ba1c.chunk.js.map",
+    "runtime-main.js": "/AY-BAMZ/1stReact.git/static/js/runtime-main.10545d15.js",
+    "runtime-main.js.map": "/AY-BAMZ/1stReact.git/static/js/runtime-main.10545d15.js.map",
+    "static/js/2.5ab6f3df.chunk.js": "/AY-BAMZ/1stReact.git/static/js/2.5ab6f3df.chunk.js",
+    "static/js/2.5ab6f3df.chunk.js.map": "/AY-BAMZ/1stReact.git/static/js/2.5ab6f3df.chunk.js.map",
+    "index.html": "/AY-BAMZ/1stReact.git/index.html",
+    "precache-manifest.3951197b4aa041f205de9575b53df06f.js": "/AY-BAMZ/1stReact.git/precache-manifest.3951197b4aa041f205de9575b53df06f.js",
+    "service-worker.js": "/AY-BAMZ/1stReact.git/service-worker.js",
+    "static/css/main.4c098369.chunk.css.map": "/AY-BAMZ/1stReact.git/static/css/main.4c098369.chunk.css.map",
+    "static/js/2.5ab6f3df.chunk.js.LICENSE.txt": "/AY-BAMZ/1stReact.git/static/js/2.5ab6f3df.chunk.js.LICENSE.txt",
+    "static/media/4.JPG": "/AY-BAMZ/1stReact.git/static/media/4.5cbf6250.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10545d15.js",
+    "static/js/2.5ab6f3df.chunk.js",
+    "static/css/main.4c098369.chunk.css",
+    "static/js/main.fa24ba1c.chunk.js"
+  ]
+}
